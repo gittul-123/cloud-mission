@@ -13,7 +13,7 @@
 - 선택 방식 : (A) 브라우저 접속
 - URL : http://43.203.154.65/ 
 - 제출 최소 규격: docs/access-screenshot.png
-(https://github.com/gittul-123/cloud-mission/blob/main/docs/access-screenshot.png.JPG)
+(https://github.com/gittul-123/cloud-mission/blob/main/docs/access-screenshot.png)
 ![image](./docs/access-screenshot.png)
 
 ## 트러블슈팅 보고서 1개
