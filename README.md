@@ -204,7 +204,7 @@ curl -o /dev/null -s -w "%{http_code}\n" http://localhost
     ![image](./img/igw%20삭제.png)
 
 - [x] Subnet 삭제 확인 — `public-subnet`
-    ![image](./img/서브넷%20삭제%20전.png)s
+    ![image](./img/서브넷%20삭제%20전.png)
     ![image](./img/서브넷%20삭제%20후.png)
 
 - [x] VPC 삭제 확인 — `my-vpc`
@@ -214,7 +214,7 @@ curl -o /dev/null -s -w "%{http_code}\n" http://localhost
 - [x] NAT Gateway — 생성하지 않았으므로 해당 없음
 - [x] ELB/ALB — 생성하지 않았으므로 해당 없음
 - [x] RDS — 생성하지 않았으므로 해당 없음
-- [x] Key Pair 삭제 확인 (선택) — `my-mission-key`
+- [x] Key Pair 삭제 확인 (선택) — `my-key`
     ![image](./img/key-pair1.png)
     ![image](./img/key-pair2.png)
 - [x] Billing Dashboard에서 과금 항목이 남지 않았는지 확인 (권장)
