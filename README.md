@@ -56,7 +56,7 @@ Public Subnet(`10.0.1.0/24`)의 Route Table(`public-rt`)에는 `0.0.0.0/0 → In
 ![image](./img/서브넷%20생성.png)
 
 - Internet Gateway -> VPC 연결
-![image](./img/게이트%20웨이%20생성%20및%20VPC%20연결.png)
+![image](./img/VPC%20연결.png)
 
 - 라우팅테이블 IGW 연결
 ![image](./img/라우팅테이블%20gw%20연결.png)
@@ -113,7 +113,7 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.```
-
+```
 ```
 sudo systemctl status nginx
 ● nginx.service - A high performance web server and a reverse proxy server
@@ -135,7 +135,6 @@ sudo systemctl status nginx
 Oct 05 07:30:43 ip-10-0-1-73 systemd[1]: Starting nginx.service - A high perfor>
 Oct 05 07:30:43 ip-10-0-1-73 systemd[1]: Started nginx.service - A high perform>
 ```
-
 
 - 인스턴스에서 curl <http://localhost > 요청이 200 응답을 반환 확인
 ```
