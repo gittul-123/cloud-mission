@@ -49,7 +49,7 @@ Public Subnet(`10.0.1.0/24`)의 Route Table(`public-rt`)에는 `0.0.0.0/0 → In
 1. 네트워크 구성
 
 - VPC 1개 생성
-![image](./img/VPC%20생성.png.png)
+![image](./img/VPC%20생성.png)
 
 
 - Public Subnet 1개 생성
